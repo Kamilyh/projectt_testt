@@ -24,6 +24,3 @@ pip install pytest
 pytest
 ```
 
-## Автор
-
-Kodland
